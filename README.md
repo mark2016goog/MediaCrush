@@ -1,3 +1,10 @@
+
+多媒体分享系统 MediaCrush
+
+MediaCrush 是一个用来快速分享各种媒体文件的系统，使用 Python 开发。支持拖拉上传。
+
+
+
 # MediaCrush
 
 A website for serving media super fast, by [SirCmpwn](https://github.com/SirCmpwn) and [jdiez](https://github.com/jdiez17), and several [other contributors](https://github.com/MediaCrush/MediaCrush/graphs/contributors).
